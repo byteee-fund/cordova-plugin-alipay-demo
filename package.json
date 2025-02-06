@@ -21,6 +21,9 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "plugins": {
+      "fund.byteee.cordova.plugin.alipay": {}
+    }
   }
 }
